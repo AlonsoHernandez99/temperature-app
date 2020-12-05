@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To get you started you can simply clone the repository:
 
 ```
-https://github.com/AlonsoHernandez99/temperature-app.git
+git clone https://github.com/AlonsoHernandez99/temperature-app.git
 ```
 and install the dependencies
 ```
