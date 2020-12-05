@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BaseCSS } from 'styled-bootstrap-grid';
+import './assets/css/animate.css'
 
 ReactDOM.render(
   <React.StrictMode>
+    <BaseCSS />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
